@@ -1,0 +1,17 @@
+pymongo[srv]
+dnspython
+haversine
+neo4j==4.3.1
+geopy
+python-socketio==5.5.2
+aiohttp==3.8.1
+aiohttp_cors==0.7.0
+aiohttp-middlewares==1.2.1
+PyJWT==2.0.1
+requests==2.27.1
+aiofiles==0.8.0
+python-multipart==0.0.5
+grpcio
+protobuf
+google
+google-auth
